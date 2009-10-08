@@ -7,7 +7,7 @@ describe Tag do
 	end
 
 	it "instantiate itself" do
-		Tag.new(:p)
+		Tag.new(:p).should be
 	end
 	
 	it "accept a tag and generate" do
