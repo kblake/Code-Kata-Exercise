@@ -1,6 +1,7 @@
-= tag
+= Basic Tag
 
-Description goes here.
+Spokane/CDA Ruby User Group
+Code Kata Exercise on Oct 7th, 2009
 
 == Note on Patches/Pull Requests
  
